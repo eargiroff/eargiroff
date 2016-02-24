@@ -555,7 +555,7 @@
 						{
 							content: '';
 							display: block;
-							/* position: absolute; */
+							position: absolute;
 							top: 50%;
 							left: 20px;
 							width: -moz-calc(100% - 40px);
