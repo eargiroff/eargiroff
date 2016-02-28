@@ -402,7 +402,7 @@
 
 		.box
 		{
-			position: relative;
+			/*position: relative;*/
 			margin-top: 2em;
 			margin-bottom: 0;
 		}
@@ -531,7 +531,7 @@
 				
 				.box.style2 .inner
 				{
-					position: relative;
+					/* position: relative; */
 					padding: 40px 0 0px 0;
 				}
 
@@ -1199,7 +1199,7 @@
 		}
 
 		#main > section > .container h2, h3 {
-			padding-left: 10px;
+			/* padding-left: 10px; */
 		}
 
 		#main > section:first-child {
