@@ -43,7 +43,7 @@
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 400;
-        /!-- color: #483949;
+		color: #483949;
 		line-height: 1.25em;
 	}
 	
@@ -61,7 +61,7 @@
 
 	h2
 	{
-		font-size: 2.00em;
+		font-size: 2.85em;
 	}
 	
 	h3
@@ -224,7 +224,7 @@
 			{
 				display: block;
 				font-size: 1.5em;
-				
+				margin: 1em 0 2em 0;
 				line-height: 1.5em;
 				text-align: inherit;
 			}

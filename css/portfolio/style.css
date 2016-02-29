@@ -402,7 +402,7 @@
 
 		.box
 		{
-			/*position: relative;*/
+			position: relative;
 			margin-top: 2em;
 			margin-bottom: 0;
 		}
@@ -531,7 +531,7 @@
 				
 				.box.style2 .inner
 				{
-					/* position: relative; */
+					position: relative;
 					padding: 40px 0 0px 0;
 				}
 
@@ -555,7 +555,7 @@
 						{
 							content: '';
 							display: block;
-							position: absolute;
+							/* position: absolute; */
 							top: 50%;
 							left: 20px;
 							width: -moz-calc(100% - 40px);
@@ -1199,7 +1199,7 @@
 		}
 
 		#main > section > .container h2, h3 {
-			/* padding-left: 10px; */
+			padding-left: 0px;
 		}
 
 		#main > section:first-child {
@@ -1417,3 +1417,14 @@
 			{
 				opacity: 1.0;
 			}
+
+/* Project */
+
+.project
+{
+	margin-bottom: 60px;
+}
+	.project > p
+	{
+		margin-bottom: 1em;
+	}
