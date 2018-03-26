@@ -1208,7 +1208,7 @@
 
 /* One */
 
-	#design:before {
+	.banner:before {
 		background-image: url("../../images/background/background.jpg");
 		background-position: center;
 		background-repeat: no-repeat;
